@@ -2,8 +2,11 @@
 
 # Gabriel Oliveira Jaques
 👋 Oi, eu sou @mrjaques ou Gabriel Jaques
+
 💬 Estudo php, javascript e Python, manjo de html, css. Sites em wordpress é um doce de fácil.
+
 🔭 Meus trabalhos - Instagram: [@Portfoliojaques](https://www.instagram.com/portfolio_jaques/) 
+
 📫 Você pode me encontrar através do meu e-mail: mrjaques7@gmail.com
 
 🖥 Aprendiz de tecnologia
