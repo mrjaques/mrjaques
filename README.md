@@ -5,7 +5,7 @@
 
 💬 Estudo php, javascript e Python, manjo de html, css. Sites em wordpress é um doce de fácil.
 
-🔭 Meus trabalhos - Instagram: [@Portfoliojaques](https://www.instagram.com/portfolio_jaques/) 
+🔭 Acompanhe meus repositórios com projetos práticos.
 
 📫 Você pode me encontrar através do meu e-mail: mrjaques7@gmail.com
 
