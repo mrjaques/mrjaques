@@ -3,7 +3,7 @@
 # Gabriel Oliveira Jaques
 👋 Oi, eu sou @mrjaques ou Gabriel Jaques
 
-💬 Estudo PHP, Javascript e React, Typescript, domínio em HTML, CSS. Sites em Wordpress é um doce de fácil.
+💬 Estudo PHP, Javascript, React, Typescript, domínio em HTML, CSS. Sites em Wordpress é um doce de fácil.
 💬 Me aprofundei com uso de IA's em 2024 e 2025, construindo soluções que resolvem problemas.
 
 🔭 Acompanhe meus repositórios com projetos práticos.
