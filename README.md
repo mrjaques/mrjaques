@@ -18,9 +18,7 @@
 🖥 Aprendiz de tecnologia
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px" align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40px">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ---
 
