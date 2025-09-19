@@ -32,18 +32,21 @@
 ## 🎨 Projetos Front-end
 - [Cardápio Digital](https://github.com/mrjaques/cardapioDigital) — Aplicativo em JavaScript para cardápios digitais.
 - [Portfolio](https://github.com/mrjaques/my-portfolio-jaques) — Meu portfólio pessoal em TypeScript/React.
-
+- [Floripa Conveniência](https://github.com/mrjaques/floripa-conveniencia02) - App para Conveniências.
+- [Floripa Gás e água](https://github.com/mrjaques/floripa-gas) - App para fornecedor de Gás e Água.
+- [ChatBot para barbearia](https://github.com/mrjaques/barber-agendamento) - ChatBot para agendar serviço em barbearias.
+  
 ---
 
 ## ⚙️ Projetos Back-end
-- [vidalearn-stream](https://github.com/mrjaques/vidalearn-stream) — Projeto em TypeScript para gerenciamento de streams.
-- [Clientes](https://github.com/mrjaques/Clientes) — Sistema de cadastro e gestão de clientes.
+
 
 ---
 
 ## 🌐 Onde me encontrar
 📍 Florianópolis  
 📸 [Instagram](https://www.instagram.com/teyy_jaques/)  
+📸 [Linkedin](https://www.linkedin.com/in/gabriel-jaques7/)  
 
 ---
 ✨ Sempre aprendendo, sempre criando!
