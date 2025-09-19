@@ -22,6 +22,31 @@
 
 ---
 
+# 👋 Olá, eu sou o Gabriel Jaques
+
+💻 Trabalho com **tecnologia**, suporte técnico, **front-end** e servidores Windows Server.  
+🚀 Aqui você encontra meus projetos organizados entre **Front-end** e **Back-end**.  
+
+---
+
+## 🎨 Projetos Front-end
+- [Cardápio Digital](https://github.com/mrjaques/cardapioDigital) — Aplicativo em JavaScript para cardápios digitais.
+- [Portfolio](https://github.com/mrjaques/my-portfolio-jaques) — Meu portfólio pessoal em TypeScript/React.
+
+---
+
+## ⚙️ Projetos Back-end
+- [vidalearn-stream](https://github.com/mrjaques/vidalearn-stream) — Projeto em TypeScript para gerenciamento de streams.
+- [Clientes](https://github.com/mrjaques/Clientes) — Sistema de cadastro e gestão de clientes.
+
+---
+
+## 🌐 Onde me encontrar
+📍 Florianópolis  
+📸 [Instagram](https://www.instagram.com/teyy_jaques/)  
+
+---
+✨ Sempre aprendendo, sempre criando!
 
 
 
